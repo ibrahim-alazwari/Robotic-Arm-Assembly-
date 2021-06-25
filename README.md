@@ -1,6 +1,7 @@
 # Robotic-Arm-Assembly-
 
-This is an assembly instruction on how to build the robotic arm
+This is an assembly instruction on how to build the robotic arm.
+
 steps:
 1. Put the base on a table or a horizontal surface. 
 2. Put the waist above the base and make sure that it is fixed in its place.
